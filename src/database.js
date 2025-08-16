@@ -1,4 +1,4 @@
-export const fnOne = () => console.log('fnOne called');
+//export const fnOne = () => console.log('fnOne called');
 
 export const japaneseCharacters = {
 	hiragana: [
