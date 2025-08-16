@@ -1,6 +1,7 @@
 console.log("main.js loaded");
-import { fnOne } from './database.js';
+import { fnOne, japaneseCharacters } from './database.js';
 console.log(fnOne);
-document.getElementById('nav').addEventListener('click', () => {
-  fnOne();
+console.log(japaneseCharacters);
+document.getElementById('navbar').addEventListener('click', () => {
+  console.log(japaneseCharacters);
 });
