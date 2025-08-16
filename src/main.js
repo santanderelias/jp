@@ -3,5 +3,5 @@ import { japaneseCharacters, kanjiCharacters } from './database.js';
 //console.log(fnOne);
 //console.log(japaneseCharacters);
 document.getElementById('toolbar').addEventListener('click', () => {
-  console.log(japaneseCharacters, kanjiCharacters);
+  console.log('navbar clicked');
 });
