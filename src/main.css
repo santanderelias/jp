@@ -3,3 +3,7 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.bordered {
+    border: 5px solid #000000;
+}
