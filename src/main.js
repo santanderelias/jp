@@ -1,4 +1,4 @@
-console.log("main.js loaded");
+console.log("main.js 0.1");
 import { japaneseCharacters, kanjiCharacters } from './database.js';
 //console.log(fnOne);
 //console.log(japaneseCharacters);
