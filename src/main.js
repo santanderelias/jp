@@ -5,8 +5,8 @@ import { japaneseCharacters, kanjiCharacters } from './database.js';
 const homeSection = document.getElementById('homeSection');
 const sectionOne = document.getElementById('sectionOne');
 homeSection.addEventListener('click', () => {
-  console.log('homeSection clicked');
+  window.alert('いいえ');
 });
 sectionOne.addEventListener('click', () => {
-  console.log('sectionOne clicked');
+  window.alert('はい');
 });
