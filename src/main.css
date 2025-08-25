@@ -12,4 +12,6 @@ body {
     bottom: 5px;
     right: 5px;
     border: red solid 2px;
+    padding: 0;
+    margin: 0;
 }
