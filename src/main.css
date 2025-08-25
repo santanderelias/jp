@@ -7,11 +7,20 @@ body {
 .bordered {
     border: 5px solid #000000;
 }
-#menu {
+#menuBtn {
     position: fixed;
     bottom: 5px;
     right: 5px;
-    border: red solid 2px;
+    border: #000000 solid 1px;
     padding: 0;
     margin: 0;
+}
+#menu {
+    position: fixed;
+    bottom: 30px;
+    right: 5px;
+    border: #000000 solid 2px;
+    padding: 0;
+    margin: 0;
+    width: 30px;
 }
