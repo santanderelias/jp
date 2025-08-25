@@ -9,7 +9,7 @@ body {
 }
 #menu {
     position: fixed;
-    bottom: 5;
-    right: 5;
+    bottom: 5px;
+    right: 5px;
     border: red solid 2px;
 }
