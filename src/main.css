@@ -7,7 +7,7 @@ body {
 .bordered {
     border: 5px solid #000;
 }
-#menuBtn {
+#menuButton {
     position: fixed;
     bottom: 5px;
     right: 5px;
@@ -15,9 +15,9 @@ body {
     padding: 0;
     margin: 0;
 }
-#menu {
+#menuArea {
     position: fixed;
-    bottom: 30px;
+    bottom: 60px;
     right: 5px;
     border: #000 solid 2px;
     padding: 0;
