@@ -7,3 +7,9 @@ body {
 .bordered {
     border: 5px solid #000000;
 }
+#menu {
+    position: fixed;
+    bottom: 5;
+    right: 5;
+    border: red solid 2px;
+}
