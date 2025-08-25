@@ -1,6 +1,4 @@
 console.log("main.js 0.1");
-const menuElem = document.getElementById('menu');
-menuElem.addEventListener('click', () => { window.alert('hi'); });
 //import { japaneseCharacters, kanjiCharacters } from './database.js';
 //console.log(fnOne);
 //console.log(japaneseCharacters);
